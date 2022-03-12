@@ -1,5 +1,5 @@
 # CI4_twitter_login
-Integrating Sign in with Twitter in a CodeIgniter 4 website. 
+Integrating Sign in with Twitter in a CodeIgniter 4 web application as used on www.revisenow.net 
 
 NOTE: 
 - Used Abraham/twitteroauth you can get full version from https://github.com/abraham/twitteroauth or visit his instructional website https://twitteroauth.com/.
